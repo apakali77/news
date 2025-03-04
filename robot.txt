@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://apakali77.github.io/news/sitemap.xml
